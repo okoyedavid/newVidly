@@ -1,0 +1,76 @@
+{
+  "movies": [
+    {
+      "id": "797f",
+      "title": "superman",
+      "genre": {
+        "_id": "5b21ca3eeb7f6fbccd471818",
+        "name": "Action"
+      },
+      "numberInStock": "9",
+      "dailyRentalRate": "3.5",
+      "_id": "1727816615636"
+    },
+    {
+      "id": "9512",
+      "title": "superman",
+      "genre": {
+        "_id": "5b21ca3eeb7f6fbccd471818",
+        "name": "Action"
+      },
+      "numberInStock": "9",
+      "dailyRentalRate": "3.5",
+      "_id": "1727816659772"
+    },
+    {
+      "id": "1727817310809",
+      "title": "superman",
+      "genre": {
+        "id": "5b21ca3eeb7f6fbccd471818",
+        "name": "Action"
+      },
+      "numberInStock": "9",
+      "dailyRentalRate": "3.5"
+    },
+    {
+      "id": "1727817349171",
+      "title": "INVINCIBLES",
+      "genre": {
+        "id": "5b21ca3eeb7f6fbccd471818",
+        "name": "Action"
+      },
+      "numberInStock": "8",
+      "dailyRentalRate": "2.5"
+    },
+    {
+      "id": "1727817442507",
+      "title": "Gone girl",
+      "genre": {
+        "id": "5b21ca3eeb7f6fbccd471814",
+        "name": "Comedy"
+      },
+      "numberInStock": "8",
+      "dailyRentalRate": "7"
+    },
+    {
+      "id": "1727817658176",
+      "title": "chigozie",
+      "genre": {
+        "id": "5b21ca3eeb7f6fbccd471814",
+        "name": "Comedy"
+      },
+      "numberInStock": "5",
+      "dailyRentalRate": "8"
+    },
+    {
+      "id": "1727817677142",
+      "title": "chigozie",
+      "genre": {
+        "id": "5b21ca3eeb7f6fbccd471814",
+        "name": "Comedy"
+      },
+      "numberInStock": "5",
+      "dailyRentalRate": "8"
+    }
+  ]
+}
